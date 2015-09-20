@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 
+# JSON files
+*.json
+
+# Used database
+car.sqlite
+
 # C extensions
 *.so
 
